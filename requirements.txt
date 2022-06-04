@@ -1,0 +1,5 @@
+gdown
+mesh-to-sdf
+path
+rich
+trimesh[easy]
